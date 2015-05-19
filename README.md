@@ -39,6 +39,7 @@ Awesome instruments for mobile marketing and development
 
 * [AppFlow](http://appflow.ru)
 * [Cowall](http://cowall.info/)
+* [Everyads](http://everyads.com/)
 
 ## Development Tools
 
